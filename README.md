@@ -1,9 +1,3 @@
-To create a `readme.md` file for your Python code that replicates Damien Hirst-like spot paintings using the Turtle graphics library, you can follow these steps:
-
-1. Create a `readme.md` file in the same directory as your Python script.
-
-2. Open the `readme.md` file in a text editor and add the following content as a basic README for your project:
-
 ```markdown
 # Damien Hirst Spot Painting with Turtle
 

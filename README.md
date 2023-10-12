@@ -37,23 +37,3 @@ You can customize the spot painting by modifying the `color_list`, dot size, or 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Author
-
-- [Your Name](https://github.com/yourusername)
-
-Feel free to contribute, suggest improvements, or report issues.
-
-![Damien Hirst Spot Painting](example.png)
-
-```
-
-3. Make sure to replace `"your_script_name.py"` with the actual name of your Python script if it's different.
-
-4. You can customize the README further, including adding your name and a link to your GitHub profile (if you have one). You can also include any additional information or details you find relevant.
-
-5. Save the `readme.md` file.
-
-6. You can add an image of the generated spot painting to your project directory (e.g., `example.png`) and reference it in the README as shown in the example.
-
-With this `readme.md` file, you provide information about your project, how to use it, and how to customize it for other users who come across your code.

@@ -20,10 +20,9 @@ This Python script uses the Turtle graphics library to create a spot painting in
 4. Run the Python script using the following command:
 
    ```bash
-   python your_script_name.py
+   python HirstPainting.py
    ```
 
-   Replace `your_script_name.py` with the name of your Python script.
 
 5. Enjoy the artwork! The script will open a Turtle graphics window and display the spot painting.
 

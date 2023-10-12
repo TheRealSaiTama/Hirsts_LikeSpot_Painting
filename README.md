@@ -1,1 +1,1 @@
-# Hirst-s_LikeSpot_Painting
+# Hirsts_LikeSpot_Painting
